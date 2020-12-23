@@ -4,7 +4,7 @@
 
 Build Docker image with remote context.
 ```
-docker build -t pwfoo/linuxkit https://github.com/crunos/undocker.git#main
+docker build -t crunos/undocker https://github.com/crunos/undocker.git#main
 ```
 
 ## Usage
